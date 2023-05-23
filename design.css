@@ -1,0 +1,137 @@
+﻿* {
+    margin: 5px;
+    padding:5px;
+    text-align: left;
+}
+.heading{
+    align-self:center;
+    background-color:white;
+    text-align:start;
+    color:black;
+    width:98%;
+    height:60px;
+    padding:-4px;
+}
+.heading_1{
+    font-family:sans-serif;
+}
+.main {
+    margin-top: 25px;
+    align-self: center;
+    background-color: lightgray;
+    text-align: start;
+    color: black;
+    width: 98%;
+    height: 490px;
+    padding: 6px;
+}
+.ph_14 {
+    width: 99.6%;
+    margin:0;
+    text-align:start;
+    font-family: 'Times New Roman';
+    background-color: rgb(37, 130, 197);
+}
+.ph_13 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(39, 145, 208);
+}
+.ph_12 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(29, 158, 217);
+}
+.ph_11 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(50, 167, 222);
+}
+.ph_10 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(87, 182, 231);
+}
+.ph_9 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(109, 193, 236);
+}
+.ph_8 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(140, 201, 238);
+}
+.ph_7 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(27, 181, 132);
+}
+.ph_6 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(244, 173, 205);
+}
+.ph_5 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(243, 156, 193);
+}
+.ph_4 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(243, 139, 181);
+}
+.ph_3 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(242, 120, 167);
+}
+.ph_2 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(241, 105, 151);
+}
+.ph_1 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(240, 86, 138);
+}
+.ph_0 {
+    width: 99.6%;
+    margin: 0;
+    text-align: start;
+    font-family: 'Times New Roman';
+    background-color: rgb(238, 53, 127);
+}
+
+body {
+    background-color: lightgray;
+    text-align: center;
+}
